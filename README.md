@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mohammad Ferdowsi  
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Game developement
+- 🌱 I’m interested learning Game developement
+- 🌱 I’m currently working on an hrms platform
 - 📫 How to reach me : more.ferdowsi@gmail.com
 
 <!---
